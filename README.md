@@ -17,8 +17,6 @@ Skills: REACT / JS / HTML / CSS / VUE JS / NODE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-eCorp&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dev-eCorp)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Dev-eCorp)  
 
 ![Profile views](https://gpvc.arturio.dev/Dev-eCorp)  
