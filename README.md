@@ -1,14 +1,15 @@
 ### Hi there 👋, console.log("Hi, my name is Eduard")
 #### I am FrontEnd developer
-As an aspiring software engineer and enthusiastic frontend developer specializing in React, I possess B1 English skills that are constantly improving. I excel in project management and the development of websites and web applications, utilizing cutting-edge technologies such as NodeJS, ExpressJS, TypeScript, Git, and Linux. My experience includes working with relational (MySQL) and non-relational (MongoDB) databases, as well as creating and developing user interfaces using HTML, CSS, JavaScript, React, Next, and Redux.
+React Frontend Developer | Digital Artisan Driving Innovation
 
-I am characterized by my ability to creatively solve problems, adapt to working in remote teams, and my passion for continuous learning. I am fascinated by exploring new challenges in the technology sector, as it allows me to grow and constantly improve myself. Currently, I seek to continue evolving as a fullstack web developer with the goal of generating value in various digital ecosystems.
+With a dynamic blend of engineering and creativity, I'm a Frontend Developer who transcends code to bring exceptional web experiences to life. My React specialization spearheads a technical arsenal that includes HTML5, CSS3, JavaScript, TypeScript, Redux, Next, Gatsby, Node.js Linux, Git, Single-spa, Storybook, Sass, Scrum, WebPack, Styled Components, Jest, Github, SSR, Bootstrap, Tailwind, Git Flow, Atomic Desing, Hooks, always armed with best practices and a focus on responsive and accessible solutions.
 
-I invite you to connect with me or contact me through email or by visiting my portfolio at www.eduardcruz.me. I am eager to share my knowledge and skills, and I am confident that together, we can take innovative projects to the next level.
+As a proficient communicator in English (B1 level and improving), I lead by example in project management and collaboration in international teams. My passion for learning is reflected in every line of code and every satisfied user.
 
-Skills: REACT / JS / HTML / CSS / VUE JS / NODE
+Find out how my drive and skills can accelerate your project:
 
-- 🌱 I’m currently learning TypeScript / NEST / VUE 
+Portfolio: www.eduardcruz.com
+Contact: eduardcruz.contact@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-eCorp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eduard-cruz-react/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.eduardcruz.me/)  
